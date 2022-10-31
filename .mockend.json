@@ -2,7 +2,7 @@
   "Userlist": {
     "name": { "string": ["US_Advisory"] },
     "ownerName": { "string": ["Jonny"] },
-    "email": { "string": ["jjonny@forbesadvisory.com"] },
+    "email": { "string": ["jjonny@forbes.com"] },
     "dateOfActivation": { "string": ["01/01/2022"] },
     "status": { "string": ["Draft", "Active", "Deactivate"] },
     "edit": { "string": ["Edit"] },
