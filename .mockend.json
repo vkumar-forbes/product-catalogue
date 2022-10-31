@@ -4,6 +4,9 @@
     "ownerName": { "string": ["Jonny"] },
     "email": { "string": ["jjonny@forbesadvisory.com"] },
     "dateOfActivation": { "string": ["01/01/2022"] },
-    "status": { "string": ["Draft"] }
+    "status": { "string": ["Draft"] },
+    "edit": { "string": ["Edit"] },
+    "clone": { "string": ["Clone"] },
+    "passwordReset": { "string": ["Password Reset"] }
   }
 }
