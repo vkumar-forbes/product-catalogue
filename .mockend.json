@@ -5,11 +5,5 @@
     "email": { "string": ["jjonny@forbesadvisory.com"] },
     "dateOfActivation": { "string": ["01/01/2022"] },
     "status": { "string": ["Draft"] }
-  },
-  "Comment": {
-    "body": { "string": {} },
-    "post": {
-      "belongsTo": "Post"
-    }
   }
 }
