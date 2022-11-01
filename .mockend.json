@@ -15,5 +15,13 @@
     "date_of_creation": {"string": ["01/01/2022"]},
     "integration_type": {"string": ["SFTP"]},
     "status": {"string": ["DRAFT", "DEACTIVE", "ACTIVE"]}
+  },
+  "Catalogue" : {
+    "name": {"string": ["Chase Sapphire Preferred® Card"]},
+    "issuer": {"string": ["Chase Bank USA, NA"]},
+    "activation_date": {"string": ["May 23, 2022, 11:31:22 System"]},
+    "source": {"string": ["RAKUTEN"]},
+    "tag": {"string": ["Tag 1"]},
+    "status": {"string": ["Connected"]}
   }
 }
