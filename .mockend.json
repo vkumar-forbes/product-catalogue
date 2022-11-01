@@ -8,5 +8,12 @@
     "edit": { "string": ["Edit"] },
     "clone": { "string": ["Clone"] },
     "passwordReset": { "string": ["Password Reset"] }
+  },
+  "Partnershipdetails" : {
+    "name_of_partner": {"string": ["ABCD"]},
+    "issuer": {"string": ["Wells Fargo"]},
+    "date_of_creation": {"string": ["01/01/2022"]},
+    "integration_type": {"string": ["SFTP"]},
+    "status": {"string": ["DRAFT", "DEACTIVE", "ACTIVE"]}
   }
 }
