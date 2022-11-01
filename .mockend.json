@@ -9,7 +9,7 @@
     "clone": { "string": ["Clone"] },
     "passwordReset": { "string": ["Password Reset"] }
   },
-  "Partnershipdetails" : {
+  "Partner" : {
     "name_of_partner": {"string": ["ABCD"]},
     "issuer": {"string": ["Wells Fargo"]},
     "date_of_creation": {"string": ["01/01/2022"]},
