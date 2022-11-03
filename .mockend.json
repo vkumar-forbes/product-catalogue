@@ -23,5 +23,13 @@
     "source": {"string": ["RAKUTEN"]},
     "tag": {"string": ["Tag 1"]},
     "status": {"string": ["Connected"]}
-  }
+  },
+  "Source": {
+        "name": "Bank of America",
+        "mid": "eb135eb1-963b-44e6-81f7-a5838dc99e19",
+        "external_id": "15307207",
+        "updates": "UPDATE",
+        "int_sync": "May 23, 2022, 11:31:22",
+        "mapping_status": "Connected"
+    }
 }
