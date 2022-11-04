@@ -30,6 +30,6 @@
         "external_id": {"string": ["15307207"]},
         "updates": {"string": ["UPDATE"]},
         "int_sync": {"string": ["May 23, 2022, 11:31:22"]},
-        "mapping_status": {"string": ["Connected"]}
+        "mapping_status": {"string": ["Connected", "Disconnnected"]}
     }
 }
