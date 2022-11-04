@@ -31,5 +31,12 @@
         "updates": {"string": ["UPDATE"]},
         "int_sync": {"string": ["May 23, 2022, 11:31:22"]},
         "mapping_status": {"string": ["Connected", "Disconnected"]}
+    },
+  "Syncproducts": {
+        "name_of_partner": {"string": ["Rakuten"]},
+        "issuer": {"string": ["Chase Sapphire"]},
+        "last_sync": {"string": ["May 23, 2022, 11:31:22"]},
+        "sync_id": {"string": ["User ID"]},
+        "status": {"string": ["Completed"]}
     }
 }
