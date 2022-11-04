@@ -32,7 +32,7 @@
         "int_sync": {"string": ["May 23, 2022, 11:31:22"]},
         "mapping_status": {"string": ["Connected", "Disconnected"]}
     },
-  "Syncproducts": {
+  "Products": {
         "name_of_partner": {"string": ["Rakuten"]},
         "issuer": {"string": ["Chase Sapphire"]},
         "last_sync": {"string": ["May 23, 2022, 11:31:22"]},
