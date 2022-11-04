@@ -1,42 +1,102 @@
 {
-  "Userlist": {
-    "name": { "string": ["US_Advisory"] },
-    "ownerName": { "string": ["Jonny"] },
-    "email": { "string": ["jjonny@forbes.com"] },
-    "dateOfActivation": { "string": ["01/01/2022"] },
-    "status": { "string": ["Draft", "Active", "Deactivate"] },
-    "edit": { "string": ["Edit"] },
-    "clone": { "string": ["Clone"] },
-    "passwordReset": { "string": ["Password Reset"] }
-  },
-  "Partner" : {
-    "name_of_partner": {"string": ["ABCD"]},
-    "issuer": {"string": ["Wells Fargo"]},
-    "date_of_creation": {"string": ["01/01/2022"]},
-    "integration_type": {"string": ["SFTP"]},
-    "status": {"string": ["DRAFT", "DEACTIVE", "ACTIVE"]}
-  },
-  "Catalogue" : {
-    "name": {"string": ["Chase Sapphire Preferred® Card"]},
-    "issuer": {"string": ["Chase Bank USA, NA"]},
-    "activation_date": {"string": ["May 23, 2022, 11:31:22 System"]},
-    "source": {"string": ["RAKUTEN"]},
-    "tag": {"string": ["Tag 1"]},
-    "status": {"string": ["Connected"]}
-  },
-  "Source": {
-        "name": {"string": ["Bank of America"]},
-        "mid": {"string": ["eb135eb1-963b-44e6-81f7-a5838dc99e19"]},
-        "external_id": {"string": ["15307207"]},
-        "updates": {"string": ["UPDATE"]},
-        "int_sync": {"string": ["May 23, 2022, 11:31:22"]},
-        "mapping_status": {"string": ["Connected", "Disconnected"]}
-    },
-  "Products": {
-        "name_of_partner": {"string": ["Rakuten"]},
-        "issuer": {"string": ["Chase Sapphire"]},
-        "last_sync": {"string": ["May 23, 2022, 11:31:22"]},
-        "sync_id": {"string": ["User ID"]},
-        "status": {"string": ["Completed"]}
-    }
+	"Userlist": {
+		"name": {
+			"string": ["US_Advisory"]
+		},
+		"ownerName": {
+			"string": ["Jonny"]
+		},
+		"email": {
+			"string": ["jjonny@forbes.com"]
+		},
+		"dateOfActivation": {
+			"string": ["01/01/2022"]
+		},
+		"status": {
+			"string": ["Draft", "Active", "Deactivate"]
+		},
+		"edit": {
+			"string": ["Edit"]
+		},
+		"clone": {
+			"string": ["Clone"]
+		},
+		"passwordReset": {
+			"string": ["Password Reset"]
+		}
+	},
+	"Partner": {
+		"name_of_partner": {
+			"string": ["ABCD"]
+		},
+		"issuer": {
+			"string": ["Wells Fargo"]
+		},
+		"date_of_creation": {
+			"string": ["01/01/2022"]
+		},
+		"integration_type": {
+			"string": ["SFTP"]
+		},
+		"status": {
+			"string": ["DRAFT", "DEACTIVE", "ACTIVE"]
+		}
+	},
+	"Catalogue": {
+		"name": {
+			"string": ["Chase Sapphire Preferred® Card"]
+		},
+		"issuer": {
+			"string": ["Chase Bank USA, NA"]
+		},
+		"activation_date": {
+			"string": ["May 23, 2022, 11:31:22 System"]
+		},
+		"source": {
+			"string": ["RAKUTEN"]
+		},
+		"tag": {
+			"string": ["Tag 1"]
+		},
+		"status": {
+			"string": ["Connected"]
+		}
+	},
+	"Source": {
+		"name": {
+			"string": ["Bank of America"]
+		},
+		"mid": {
+			"string": ["eb135eb1-963b-44e6-81f7-a5838dc99e19"]
+		},
+		"external_id": {
+			"string": ["15307207"]
+		},
+		"updates": {
+			"string": ["UPDATE"]
+		},
+		"int_sync": {
+			"string": ["May 23, 2022, 11:31:22"]
+		},
+		"mapping_status": {
+			"string": ["Connected", "Disconnected"]
+		}
+	},
+	"Product": {
+		"name_of_partner": {
+			"string": ["Rakuten"]
+		},
+		"issuer": {
+			"string": ["Chase Sapphire"]
+		},
+		"last_sync": {
+			"string": ["May 23, 2022, 11:31:22"]
+		},
+		"sync_id": {
+			"string": ["User ID"]
+		},
+		"status": {
+			"string": ["Completed"]
+		}
+	}
 }
